@@ -1,5 +1,6 @@
 # creating a typescript libray
 
+TypeScript libraries provide a way to share reusable code across projects, combining the benefits of JavaScript libraries with the added advantages of TypeScript's static typing and modern syntax. They are great in creating modular, type-safe, and maintainable codebases, ensuring developers catch potential bugs during development. A well-structured TypeScript library typically includes type definitions (.d.ts files) alongside JavaScript output in formats like CommonJS and ES Modules, making it compatible with various environments. These libraries can be published to package managers like npm, allowing developers to easily share and integrate them into their projects while maintaining robust type safety and development productivity.
 
 ## Step 1. create typescript library
 
