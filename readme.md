@@ -1,4 +1,4 @@
-# creating a sample typescript libray
+# creating a typescript libray
 
 
 ## Step 1. create typescript library
@@ -107,5 +107,4 @@ import { greet } from 'my-library';
 console.log(greet("World"));
 ```
    
-
-   ```bash
+Emi Roberti - Happy coding 
